@@ -1,2 +1,2 @@
 # Tkinter_Python_
-Progama hecho con Tkinter de Python.
+Algoritmos hecho con Tkinter de Python.
